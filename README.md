@@ -1,2 +1,2 @@
-# PROJECT-Knight-Travalis
+# PROJECT-Knight-Travails
 PROJECT: KNIGHTS TRAVAILS
